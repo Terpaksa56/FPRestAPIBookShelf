@@ -1,13 +1,11 @@
-# FPRestAPIBookShelf
-
-# 📚 Rest API Book Shelf JavaScript
+# Rest API Book Shelf JavaScript
 
 Final Project Back End Development JavaScript  
 Submission Bookshelf API
 
 ---
 
-## ✅ Kriteria Proyek
+## Kriteria Proyek
 
 ### 1. Aplikasi menggunakan port 9000
 
